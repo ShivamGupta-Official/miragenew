@@ -299,7 +299,7 @@ MIRAGE includes a built-in **Cyber Range Synthesizer** generating realistic NTRO
 
 ### 1. Live Cloud Deployment (Vercel)
 The Next.js frontend is deployed and publicly accessible with global edge acceleration:
-- **Production URL:** [https://mirage-sooty.vercel.app/](https://mirage-sooty.vercel.app/)
+- **Production URL:** [https://miragenew.vercel.app/](https://miragenew.vercel.app/)
 
 ### 2. Backend Setup & Local Run
 ```bash
